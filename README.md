@@ -4,72 +4,72 @@ Indian language fonts collection These fonts are for
 non commercial personal use. The following fonts are
 available
 
-Assamese:
- Bidisha
- Arbindo
- Satyajit
+**Assamese:**
+1. Bidisha
+2. Arbindo
+3. Satyajit
 
-Bengali:
- Arbindo
- Satyajit
+**Bengali:**
+1. Arbindo
+2. Satyajit
 
-Bodo - Devanagari script:
- Surekh
+**Bodo - Devanagari script:**
+1. Surekh
 
-Gujrati:
- Kapila
- Piyush
+**Gujrati:**
+1. Kapila
+2. Piyush
 
-Devanagari script - Languages: Hindi,Konkani,Marathi,Nepali,Sanskrit :
- Dhruv
- Vinit
+**Devanagari script - Languages: Hindi,Konkani,Marathi,Nepali,Sanskrit :**
+1. Dhruv
+2. Vinit
 
-Kannada:
- Jairaj
- Padmini
+**Kannada:**
+1. Jairaj
+2. Padmini
 
-Kashmiri - perso/arabic script:
- Habba
- Maqbool
- SakalBharati Kashmari Arabiq
+**Kashmiri - perso/arabic script:**
+1. Habba
+2. Maqbool
+3. SakalBharati Kashmari Arabiq
 
-Malayalam:
- Aswathi
- Malavika
+**Malayalam:**
+1. Aswathi
+2. Malavika
 
-Manipuri-Meitei Mayek script:
- Ravindo
- Shamal
+**Manipuri-Meitei Mayek script:**
+1. Ravindo
+2. Shamal
 
-Manipuri-Bengali script:
- Govindji
- Panthoibee
+**Manipuri-Bengali script:**
+1. Govindji
+2. Panthoibee
 
-Oriya:
- Chilika
- Mukta
+**Oriya:**
+1. Chilika
+2. Mukta
 
-Punjabi:
- Amar
+**Punjabi:**
+1. Amar
 
-Olchiki/Santali:
- Chandra
- Raghu
+**Olchiki/Santali:**
+1. Chandra
+2. Raghu
 
-Sindhi- perso/arabic script:
+**Sindhi- perso/arabic script:**
  Murasilat
  Sarmast
  SakalBharati sindi Arebiq
 
-Tamil:
+**Tamil:**
  Kapilan
  Pattinathar
 
-Telugu:
+**Telugu:**
  Amma
  Krishna
 
-Urdu - perso/arbic script:
+**Urdu - perso/arbic script:**
  Ghalib
  Nabeel
  SakalBharati Urdu Arabiq
