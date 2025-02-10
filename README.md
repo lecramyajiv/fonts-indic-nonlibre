@@ -57,19 +57,19 @@ available
 2. Raghu
 
 **Sindhi- perso/arabic script:**
- Murasilat
- Sarmast
- SakalBharati sindi Arebiq
+1. Murasilat
+2. Sarmast
+3. SakalBharati sindi Arebiq
 
 **Tamil:**
- Kapilan
- Pattinathar
+1. Kapilan
+2. Pattinathar
 
 **Telugu:**
- Amma
- Krishna
+1. Amma
+2. Krishna
 
 **Urdu - perso/arbic script:**
- Ghalib
- Nabeel
- SakalBharati Urdu Arabiq
+1. Ghalib
+2. Nabeel
+3. SakalBharati Urdu Arabiq
