@@ -149,7 +149,7 @@ Copyright (c) 2015, C-DAC, GIST PUNE, INDIA-URDU (Perso Arabic-Urdu ) OPEN TYPE-
 
 Copyright (c) 2012, CDAC-GIST, INDIA. SakalBharati UrduArabic Normal Open Type Font. FOR NON-COMMERCIAL FREE USAGE. For commercial Iiceense contact C-DAC, GIST, Pune, India.
 
---------------------------------------------
+---
 
 **THIS FONT IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED**
 **WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES**
