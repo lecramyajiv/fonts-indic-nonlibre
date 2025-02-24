@@ -7,16 +7,12 @@ Copyright (c) 2015, C-DAC, GIST PUNE, INDIA-ASSAMESE-OPEN TYPE-ARABINDO-NORMAL. 
 
 Copyright (c) 2015, C-DAC, GIST PUNE, INDIA-ASSAMESE-OPEN TYPE- SATYAJIT-NORMAL. FOR NON-COMMERCIAL FREE USAGE. For commercial license contact C-DAC, GIST, Pune. (Unicode 7.0)
 
------------------------------------------------------------------------
-
 **Bengali:**
 ------------------
 
 Copyright (c) 2015, C-DAC, GIST PUNE, INDIA-BENGALI-OPEN TYPE-ARABINDO-NORMAL. FOR NON-COMMERCIAL FREE USAGE. For commercial license contact C-DAC, GIST, Pune. (Unicode 7.0)
 
 Copyright (c) 2015, C-DAC, GIST PUNE, INDIA-BENGALI-OPEN TYPE- SATYAJIT-NORMAL. FOR NON-COMMERCIAL FREE USAGE. For commercial license contact C-DAC, GIST, Pune. (Unicode 7.0)
-
------------------------------------------------------------
 
 **Bodo - Devanagari script:**
 -------------------------------------
